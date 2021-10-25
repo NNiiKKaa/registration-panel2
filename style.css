@@ -14,10 +14,8 @@ body {
     position: relative;
     background-image: url(images/road.jpg);
     background-size: cover;
-    
+
 }
-
-
 /* here starts login */
 .main-section {
     max-width: 1920px;
